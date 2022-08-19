@@ -1,0 +1,12 @@
+{
+    "description": "Describe the use of this subdomain",
+    "repo": "https://github.com/mohit421/mohit421.github.io",
+    "owner": {
+        "username": "mohit421",
+        "email": "mohitjais312@gmail.com",
+        "twitter": "Mohit63350348"
+    },
+    "record": {
+        "CNAME": "mohit421.github.io"
+    }
+} 
